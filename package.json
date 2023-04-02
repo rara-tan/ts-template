@@ -1,7 +1,7 @@
 {
-  "name": "gh-actions-ts-template",
+  "name": "ts-template",
   "version": "1.0.0",
-  "description": "Github Actions Typescript Template",
+  "description": "Typescript Template",
   "main": "main.js",
   "scripts": {
     "build": "tsc",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rara-tan/gh-actions-ts-template.git"
+    "url": "git+https://github.com/rara-tan/ts-template.git"
   },
   "keywords": [
     "actions",
@@ -24,9 +24,9 @@
   "author": "yossy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rara-tan/gh-actions-ts-template/issues"
+    "url": "https://github.com/rara-tan/ts-template/issues"
   },
-  "homepage": "https://github.com/rara-tan/gh-actions-ts-template#readme",
+  "homepage": "https://github.com/rara-tan/ts-template#readme",
   "devDependencies": {
     "@types/jest": "^29.5.0",
     "@typescript-eslint/eslint-plugin": "^5.57.0",
